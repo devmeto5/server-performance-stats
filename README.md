@@ -1,5 +1,7 @@
 # Server Performance Stats Script
 
+[A roadmap.sh project](https://roadmap.sh/projects/server-stats)
+
 This script analyzes basic server performance statistics on a Linux server.
 
 ## Features
