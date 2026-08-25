@@ -1,4 +1,4 @@
-# Server Performance Stats Script
+# Server Performance Stats Script.
 
 [A roadmap.sh project](https://roadmap.sh/projects/server-stats)
 
